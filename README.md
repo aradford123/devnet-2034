@@ -7,4 +7,4 @@ source env/bin/activate
 pip install -r requirements.txt
 
 ```
-./RUN to run
+./RUN to run the Juypter notebook server
